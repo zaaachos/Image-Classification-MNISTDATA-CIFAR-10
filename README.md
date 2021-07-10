@@ -4,6 +4,13 @@
 Academic project which refers to implementation of Mini-Batch Stochastic Gradient Ascent (SGA). 
 The implementation consists of a MultiLayerPerceptron (MLP) with one hidden layer with M hidden units. The Neural Network was trained upon [MNIST](http://yann.lecun.com/exdb/mnist/) and [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) datasets and it tried to predict the image.
 
+## Dependencies
+* Python
+* NumPy
+* Matplotlib
+* cPickle 
+
+
 ## Scores
 The MLP was trained with different hyperparameters.
 * Learning_rates = = [ 0.01, 0.001]
