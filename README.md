@@ -6,12 +6,12 @@ The implementation consists of a MultiLayerPerceptron (MLP) with one hidden laye
 
 ## Scores
 The MLP was trained with different hyperparameters.
-Learning_rates = = [ 0.01, 0.001]
-λ = [ 0.1, 0.5 ]
-epochs = [ 10, 20, 30]
-HiddenLayers (M) = [100, 200, 300]
-activation_h = [h1. h2. h3]
-batch_size = 200
+* Learning_rates = = [ 0.01, 0.001]
+* λ = [ 0.1, 0.5 ]
+* epochs = [ 10, 20, 30]
+* HiddenLayers (M) = [100, 200, 300]
+* activation_h = [h1. h2. h3]
+* batch_size = 200
 
 In MNIST DATA we got accuracy > 85.6% with best the acc = 98.14%.
 
